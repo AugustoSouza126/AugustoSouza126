@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Augusto Souza 👋
 
-<!--
-**AugustoSouza126/AugustoSouza126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at URI Santiago
 
-Here are some ideas to get you started:
+💻 Passionate about software development and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About Me
+
+I am currently studying Computer Science and developing projects involving web development, object-oriented programming, databases, and software engineering.
+
+I have experience working with academic and team projects using technologies such as Java, Spring Boot, TypeScript, SQL, and Git/GitHub.
+
+Currently looking for internship opportunities in Software Development to improve my technical skills and gain professional experience.
+
+## Technologies
+
+- Java
+- Spring Boot
+- TypeScript
+- SQL / MySQL
+- Git & GitHub
+- C
+
+# Education
+
+**Bachelor's Degree in Computer Science**  
+URI Santiago (2024 - Present)
+
+# Contact
+
+ Email: augusto281003@gmail.com
+
+ LinkedIn:  
+www.linkedin.com/in/augusto-souza-795324313
