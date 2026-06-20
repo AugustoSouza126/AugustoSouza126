@@ -2,37 +2,84 @@
 
 🎓 Computer Science Student at URI Santiago
 
-💻 Passionate about software development and technology.
+💻 Passionate about software development, web applications, and backend development.
 
-# About Me
+---
 
-I am currently studying Computer Science and developing projects involving web development, object-oriented programming, databases, and software engineering.
+## About Me
 
-I have experience working with academic and team projects using technologies such as Java, Spring Boot, TypeScript, SQL, and Git/GitHub.
+I am currently pursuing a Bachelor's Degree in Computer Science and continuously improving my skills through academic and personal projects.
 
-Currently looking for internship opportunities in Software Development to improve my technical skills and gain professional experience.
+My main interests are:
 
-# Technologies
+* Backend Development
+* Web Development
+* Software Engineering
+* Databases
+* Object-Oriented Programming
 
-- Java
-- Spring Boot
-- TypeScript
-- SQL / MySQL
-- Git & GitHub
-- C
+Currently looking for internship opportunities in Software Development to gain professional experience and continue growing as a developer.
 
-#WebSite
+---
 
- TaskFlow - https://taskflow-frontend-git-main-augusto126.vercel.app/
+## Technologies
 
-# Education
+### Backend
 
-**Bachelor's Degree in Computer Science**  
+* Java
+* Spring Boot
+* Spring Security
+* JWT Authentication
+* PostgreSQL
+* JPA / Hibernate
+
+### Frontend
+
+* React
+* Vite
+* JavaScript
+* TypeScript
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Postman
+* IntelliJ IDEA
+* VS Code
+
+### Programming Languages
+
+* Java
+* JavaScript
+* TypeScript
+* C
+
+---
+
+#### Live Application
+
+🌐 Website:
+
+https://taskflow-frontend-eight-psi.vercel.app
+
+---
+
+## Education
+
+🎓 Bachelor's Degree in Computer Science
+
 URI Santiago (2024 - Present)
 
-# Contact
+---
 
- Email: augusto281003@gmail.com
+## Contact
 
- LinkedIn:  
-www.linkedin.com/in/augusto-souza-795324313
+ Email:
+
+[augusto281003@gmail.com](mailto:augusto281003@gmail.com)
+
+ LinkedIn:
+
+https://www.linkedin.com/in/augusto-souza-795324313
